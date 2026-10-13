@@ -1,0 +1,8 @@
+name: "flying-naval"
+displayName: "Flying Naval Units"
+author: "dmincore"
+description: "Makes all vanilla naval units (Risso, Minke, Bryde, Sei, Omura, Retusa, Oxynoe, Cyprese, Navanax) fully functional flying units that can fly over land, mountains and structures."
+subtitle: "Turn all ships into flying airships!"
+version: "1.0"
+minGameVersion: "136"
+hidden: false
